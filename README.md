@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Sou Maysa Rocha👩🏽, tenho 23 anos e sou apaixona por tecnologia Desevolvimento Web e Software.🌐</p>
+<p align="left">Sou Maysa Rocha👩🏽, tenho 23 anos e sou apaixona por tecnologia e Desevolvimento Web e Software.🌐</p>
 
 ###
 
